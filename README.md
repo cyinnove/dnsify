@@ -1,7 +1,3 @@
-Here's a `README.md` file for your `dnsify` package that explains its purpose, usage, and provides code examples:
-
----
-
 # DNSify
 
 
